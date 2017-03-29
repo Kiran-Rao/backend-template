@@ -2,7 +2,7 @@
   "name": "template-api",
   "version": "1.0.0",
   "engines": {
-    "node": "4.2.4"
+    "node": "6.10.1"
   },
   "description": "this is a template api for future backend projects",
   "main": "index.js",
